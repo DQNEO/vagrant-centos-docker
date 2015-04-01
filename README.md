@@ -6,7 +6,7 @@ Vagrantfile to use Docker on CentOS 7
 
 ```
 git clone https://github.com/DQNEO/vagrant-centos-docker.git
-cd ovagrant-centos-docker
+cd vagrant-centos-docker
 vagrant up
 vagrant ssh
 ```
