@@ -8,6 +8,7 @@ Vagrant.configure(2) do |config|
     sudo systemctl enable docker
     sudo systemctl start docker
     sudo docker pull busybox
+    sudo docker run --rm  busybox echo hello world
   SHELL
 
 end
