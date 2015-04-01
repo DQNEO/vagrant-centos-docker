@@ -11,7 +11,7 @@ vagrant up
 vagrant ssh
 ```
 
-After entering the vagrant machine
+After entering the vagrant machine, 
 
 ```
 sudo docker pull busybox
